@@ -1,0 +1,12 @@
+<svg id="Icon_10" data-name="Icon 10" xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+  <circle id="Ellipse_377" data-name="Ellipse 377" cx="38.5" cy="38.5" r="38.5" fill="#ec631e"/>
+  <path id="Trazado_1979" data-name="Trazado 1979" d="M660.6,166.382h7.678c.127,0,.23.195.23.436v2.416c0,.4-.172.725-.383.725h-7.371c-.212,0-.384-.326-.384-.725h0v-2.416C660.368,166.577,660.471,166.382,660.6,166.382Z" transform="translate(-625.85 -141.207)" fill="none" stroke="#f6b696" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1.5"/>
+  <g id="Ellipse_391" data-name="Ellipse 391" transform="translate(37.088 47)" fill="none" stroke="#f6b696" stroke-width="2">
+    <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+    <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+  </g>
+  <g id="Path_6745" data-name="Path 6745" transform="translate(29 24)" fill="none">
+    <path d="M2,0H17a2,2,0,0,1,2,2V28a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" stroke="none"/>
+    <path d="M 2 2 L 2 28 L 17 28 L 17 2 L 7.660400390625 2 L 2 2 M 2 0 L 7.660400390625 0 L 17 0 C 18.10457038879395 0 19 0.8954296112060547 19 2 L 19 28 C 19 29.10457038879395 18.10457038879395 30 17 30 L 2 30 C 0.8954296112060547 30 0 29.10457038879395 0 28 L 0 2 C 0 0.8954296112060547 0.8954296112060547 0 2 0 Z" stroke="none" fill="#fff"/>
+  </g>
+</svg>

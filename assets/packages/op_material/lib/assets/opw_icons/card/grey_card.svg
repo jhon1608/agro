@@ -1,0 +1,11 @@
+<svg id="Icon_94" data-name="Icon 94" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352" height="212.002" viewBox="0 0 352 212.002">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.055" y1="0.609" x2="0.918" y2="-0.307" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#707070"/>
+      <stop offset="1" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_7793" data-name="Path 7793" d="M13,0H339a13,13,0,0,1,13,13V199a13,13,0,0,1-13,13H13A13,13,0,0,1,0,199V13A13,13,0,0,1,13,0Z" transform="translate(0)" fill="#707070"/>
+  <path id="Intersection_2" data-name="Intersection 2" d="M-4650.341,19769.8a19,19,0,0,1-19-19v-174a19,19,0,0,1,19-19h201.049l-126.854,212Z" transform="translate(4669.34 -19557.797)" opacity="0.208" fill="url(#linear-gradient)"/>
+</svg>

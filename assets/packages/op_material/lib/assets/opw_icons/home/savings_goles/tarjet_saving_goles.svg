@@ -1,0 +1,19 @@
+<svg id="Icon_113" data-name="Icon 113" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_3639" data-name="Group 3639">
+    <path id="Path_7799" data-name="Path 7799" d="M20,0A20,20,0,1,1,0,20,20,20,0,0,1,20,0Z" fill="#fdfdff"/>
+  </g>
+  <g id="Group_3640" data-name="Group 3640" transform="translate(9.979 13.924)">
+    <g id="Group_917" data-name="Group 917">
+      <path id="Path_6736" data-name="Path 6736" d="M-1752.1-1068.383h-9.609a1.389,1.389,0,0,1-1.387-1.388v-12.01a1.388,1.388,0,0,1,1.387-1.387h17.243a1.388,1.388,0,0,1,1.387,1.387v7.292h-1.044v-7.292a.343.343,0,0,0-.343-.343h-17.243a.343.343,0,0,0-.343.343v12.01a.343.343,0,0,0,.343.343h9.609Z" transform="translate(1763.101 1083.168)" fill="#ec631e"/>
+    </g>
+    <g id="Group_918" data-name="Group 918" transform="translate(0.522 5.229)">
+      <rect id="Rectangle_487" data-name="Rectangle 487" width="18.973" height="1.044" fill="#ec631e"/>
+    </g>
+    <g id="Group_919" data-name="Group 919" transform="translate(16.88 11.534)">
+      <rect id="Rectangle_488" data-name="Rectangle 488" width="1.044" height="5.275" fill="#f6b696"/>
+    </g>
+    <g id="Group_920" data-name="Group 920" transform="translate(14.763 13.641)">
+      <rect id="Rectangle_489" data-name="Rectangle 489" width="5.275" height="1.044" transform="matrix(1, -0.003, 0.003, 1, 0, 0.016)" fill="#f6b696"/>
+    </g>
+  </g>
+</svg>

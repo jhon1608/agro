@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.07" height="29.995" viewBox="0 0 30.07 29.995">
+  <g id="Layer_59" data-name="Layer 59" transform="translate(-1 -1.005)">
+    <path id="Path_6701" data-name="Path 6701" d="M30,31H2a1,1,0,0,1-1-1V12a1,1,0,1,1,2,0V29H29V12a1,1,0,0,1,2,0V30A1,1,0,0,1,30,31Z" fill="#ec631e"/>
+    <path id="Path_6702" data-name="Path 6702" d="M30,13a1,1,0,0,1-.58-.19L16,3.23,2.58,12.81a1,1,0,0,1-1.16-1.62l14-10a1,1,0,0,1,1.16,0l14,10A1,1,0,0,1,30,13Z" fill="#ec631e"/>
+    <path id="Path_6703" data-name="Path 6703" d="M16,22.54A2.93,2.93,0,0,1,14.26,22L1.42,12.81a1,1,0,0,1,1.16-1.62l12.84,9.17a1,1,0,0,0,1.16,0l12.84-9.17a1,1,0,1,1,1.16,1.62L17.74,22a2.93,2.93,0,0,1-1.74.54Z" fill="#ec631e"/>
+    <rect id="Rectangle_452" data-name="Rectangle 452" width="10.82" height="2" transform="matrix(0.832, -0.555, 0.555, 0.832, 1.44, 27.165)" fill="#ec631e"/>
+    <rect id="Rectangle_453" data-name="Rectangle 453" width="2" height="10.82" transform="matrix(0.555, -0.832, 0.832, 0.555, 20.44, 22.831)" fill="#ec631e"/>
+    <rect id="Rectangle_454" data-name="Rectangle 454" width="14" height="2" transform="translate(9 11)" fill="#ec631e"/>
+  </g>
+</svg>
